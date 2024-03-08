@@ -27,19 +27,29 @@ To use Inspire Mate Bot in your Discord server, follow these steps:
 
 ## Commands
 
-- **$inspire**
-  - Get a random inspirational quote.
-- **$new [message]**
-  - Add a new custom encouraging message.
-- **$del [index]**
-  - Delete a custom encouraging message at the specified index.
-- **$list**
-  - List all custom encouraging messages.
-- **$motivate**
-  - Get motivation specifically tailored for programming.
-- **$help**
-  - Display a help message with a list of available commands.
+1. **$inspire**
+   - *Description*: Get a random inspirational quote.
+   - *Usage*: `$inspire`
 
+2. **$new [message]**
+   - *Description*: Add a new custom encouraging message.
+   - *Usage*: `$new [message]`
+
+3. **$del [index]**
+   - *Description*: Delete a custom encouraging message at the specified index.
+   - *Usage*: `$del [index]`
+
+4. **$list**
+   - *Description*: List all custom encouraging messages.
+   - *Usage*: `$list`
+
+5. **$motivate**
+   - *Description*: Get motivation specifically tailored for programming.
+   - *Usage*: `$motivate`
+
+6. **$help**
+   - *Description*: Display a help message with a list of available commands.
+   - *Usage*: `$help`
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Inspire Mate Bot, please check out the [CONTRIBUTING.md](https://github.com/hackclub/InspireMateBot/blob/main/.github/CONTRIBUTING.md) file for guidelines.
