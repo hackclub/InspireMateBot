@@ -44,6 +44,3 @@ To use Inspire Mate Bot in your Discord server, follow these steps:
 
 Contributions are welcome! If you'd like to contribute to Inspire Mate Bot, please check out the [CONTRIBUTING.md](https://github.com/hackclub/InspireMateBot/blob/main/.github/CONTRIBUTING.md) file for guidelines.
 
----
-
-Feel free to customize or expand upon this README to better fit your project's needs!
