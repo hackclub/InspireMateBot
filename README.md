@@ -1,4 +1,4 @@
-# Inspire Mate Bot
+# 🤖Inspire Mate Bot
 
 Inspire Mate Bot is a Discord bot designed to bring inspiration, motivation, and positive vibes to your Discord server.
 
